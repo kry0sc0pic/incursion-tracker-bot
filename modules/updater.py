@@ -98,7 +98,7 @@ class Updater(commands.Cog):
                 elif(incursion['focus']['state']=="mobilizing" and lastUpdateData['notifications']['mobilized']==False):
                     print('MOBILIZED')
                     with open('current_focus/focus.json','w') as lastUpdate:
-                        lastUpdateData['status'] = "mobilized"
+                        lastUpdateData['status'] = "mobilizing"
                         lastUpdateData['notifications']['mobilized'] = True
                         json.dump(lastUpdateData , lastUpdate)
                     
@@ -112,13 +112,14 @@ class Updater(commands.Cog):
                 elif(incursion['focus']['state']=="withdrawing" and lastUpdateData['notifications']['withdrawing']==False):
                     print("Withdrawing")
                     with open('current_focus/focus.json','w') as lastUpdate:
-                        lastUpdateData['status'] = "mobilized"
+                        lastUpdateData['status'] = "withdrawing"
                         lastUpdateData['notifications']['withdrawing'] = True
                         json.dump(lastUpdateData , lastUpdate)
                     embed_to_send = generateEmbed(focusInfo=incursion)
                     embed_to_send.set_footer(text=f"⏱ Last Updated: {getNowTS()}")
+                    await log_channel.send(f"Focus has Withdrawn\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}")
                     await message.edit(embed=embed_to_send)
-                    await log_channel.send(f"Focus has Mobilized\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}")
+                    
 
 
                 # 0 Influence
@@ -159,7 +160,7 @@ class Updater(commands.Cog):
                     embed_to_send.set_footer(text=f"⏱ | Last Updated: {getNowTS()}")
                     await message.edit(embed=embed_to_send)
                     await log_channel.send(f"REGULAR\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}")
-                await asyncio.sleep(58)
+                await asyncio.sleep((60*10)-2)
             except Exception as e:
                 print(e)
 
