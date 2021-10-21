@@ -1,0 +1,5049 @@
+{
+    "30002707": {
+        "jita": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Unel:Hek:shortest"
+            }
+        }
+    },
+    "30004130": {
+        "jita": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hostakoh:Hek:shortest"
+            }
+        }
+    },
+    "30031672": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Safilbab:Hek:shortest"
+            }
+        }
+    },
+    "30002682": {
+        "jita": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Colelie:Hek:shortest"
+            }
+        }
+    },
+    "30003876": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Molea:Hek:shortest"
+            }
+        }
+    },
+    "30005322": {
+        "jita": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scolluzer:Hek:shortest"
+            }
+        }
+    },
+    "30003387": {
+        "jita": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jondik:Hek:shortest"
+            }
+        }
+    },
+    "30045321": {
+        "jita": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 52,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uchomida:Hek:shortest"
+            }
+        }
+    },
+    "30003418": {
+        "jita": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hardbako:Hek:shortest"
+            }
+        }
+    },
+    "30004122": {
+        "jita": {
+            "secure": {
+                "jumps": 56,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 45,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chanoun:Hek:shortest"
+            }
+        }
+    },
+    "30002752": {
+        "jita": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 45,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahynada:Hek:shortest"
+            }
+        }
+    },
+    "30003453": {
+        "jita": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Orduin:Hek:shortest"
+            }
+        }
+    },
+    "30001424": {
+        "jita": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Haajinen:Hek:shortest"
+            }
+        }
+    },
+    "30002266": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ahmak:Hek:shortest"
+            }
+        }
+    },
+    "30003428": {
+        "jita": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hilfhurmur:Hek:shortest"
+            }
+        }
+    },
+    "30002761": {
+        "jita": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kassigainen:Hek:shortest"
+            }
+        }
+    },
+    "30005251": {
+        "jita": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 46,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Asanot:Hek:shortest"
+            }
+        }
+    },
+    "30003513": {
+        "jita": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ides:Hek:shortest"
+            }
+        }
+    },
+    "30001687": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lossa:Hek:shortest"
+            }
+        }
+    },
+    "30002988": {
+        "jita": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakatre:Hek:shortest"
+            }
+        }
+    },
+    "30003053": {
+        "jita": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Avele:Hek:shortest"
+            }
+        }
+    },
+    "30003001": {
+        "jita": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mili:Hek:shortest"
+            }
+        }
+    },
+    "30002572": {
+        "jita": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hurjafren:Hek:shortest"
+            }
+        }
+    },
+    "30024971": {
+        "jita": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hecarrin:Hek:shortest"
+            }
+        }
+    },
+    "30005288": {
+        "jita": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Girani-Fa:Hek:shortest"
+            }
+        }
+    },
+    "30004091": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uanim:Hek:shortest"
+            }
+        }
+    },
+    "30003904": {
+        "jita": {
+            "secure": {
+                "jumps": 60,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Col:Hek:shortest"
+            }
+        }
+    },
+    "30003874": {
+        "jita": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Saloti:Hek:shortest"
+            }
+        }
+    },
+    "30003440": {
+        "jita": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ansher:Hek:shortest"
+            }
+        }
+    },
+    "30003376": {
+        "jita": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Stirht:Hek:shortest"
+            }
+        }
+    },
+    "30003588": {
+        "jita": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 56,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Yvaeroure:Hek:shortest"
+            }
+        }
+    },
+    "30001373": {
+        "jita": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Raussinen:Hek:shortest"
+            }
+        }
+    },
+    "30003509": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gosalav:Hek:shortest"
+            }
+        }
+    },
+    "30003083": {
+        "jita": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Junsen:Hek:shortest"
+            }
+        }
+    },
+    "30000137": {
+        "jita": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eskunen:Hek:shortest"
+            }
+        }
+    },
+    "30003393": {
+        "jita": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Eiluvodi:Hek:shortest"
+            }
+        }
+    },
+    "30002672": {
+        "jita": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Inghenges:Hek:shortest"
+            }
+        }
+    },
+    "30001413": {
+        "jita": {
+            "secure": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 0,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nani:Hek:shortest"
+            }
+        }
+    },
+    "30004088": {
+        "jita": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Joramok:Hek:shortest"
+            }
+        }
+    },
+    "30000024": {
+        "jita": {
+            "secure": {
+                "jumps": 34,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kiereend:Hek:shortest"
+            }
+        }
+    },
+    "30002221": {
+        "jita": {
+            "secure": {
+                "jumps": 42,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Fabin:Hek:shortest"
+            }
+        }
+    },
+    "30002257": {
+        "jita": {
+            "secure": {
+                "jumps": 46,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Moussou:Hek:shortest"
+            }
+        }
+    },
+    "30005310": {
+        "jita": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Scheenins:Hek:shortest"
+            }
+        }
+    },
+    "30002970": {
+        "jita": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohide:Hek:shortest"
+            }
+        }
+    },
+    "30003383": {
+        "jita": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todrir:Hek:shortest"
+            }
+        }
+    },
+    "30003526": {
+        "jita": {
+            "secure": {
+                "jumps": 42,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Murzi:Hek:shortest"
+            }
+        }
+    },
+    "30003548": {
+        "jita": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Barira:Hek:shortest"
+            }
+        }
+    },
+    "30004250": {
+        "jita": {
+            "secure": {
+                "jumps": 65,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 54,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 46,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Chibi:Hek:shortest"
+            }
+        }
+    },
+    "30002218": {
+        "jita": {
+            "secure": {
+                "jumps": 52,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Noli:Hek:shortest"
+            }
+        }
+    },
+    "30004077": {
+        "jita": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hiroudeh:Hek:shortest"
+            }
+        }
+    },
+    "30000061": {
+        "jita": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Agha:Hek:shortest"
+            }
+        }
+    },
+    "30001675": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sacalan:Hek:shortest"
+            }
+        }
+    },
+    "30002197": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Akhragan:Hek:shortest"
+            }
+        }
+    },
+    "30004148": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Jennim:Hek:shortest"
+            }
+        }
+    },
+    "30000056": {
+        "jita": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Khankenirdia:Hek:shortest"
+            }
+        }
+    },
+    "30002242": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 3,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mamenkhanar:Hek:shortest"
+            }
+        }
+    },
+    "30002743": {
+        "jita": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ohvosamon:Hek:shortest"
+            }
+        }
+    },
+    "30004142": {
+        "jita": {
+            "secure": {
+                "jumps": 54,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 43,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hikansog:Hek:shortest"
+            }
+        }
+    },
+    "30001707": {
+        "jita": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Phoren:Hek:shortest"
+            }
+        }
+    },
+    "30005049": {
+        "jita": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Andrub:Hek:shortest"
+            }
+        }
+    },
+    "30003866": {
+        "jita": {
+            "secure": {
+                "jumps": 55,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 44,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Bukah:Hek:shortest"
+            }
+        }
+    },
+    "30002276": {
+        "jita": {
+            "secure": {
+                "jumps": 50,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Isamm:Hek:shortest"
+            }
+        }
+    },
+    "30042505": {
+        "jita": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Usteli:Hek:shortest"
+            }
+        }
+    },
+    "30003031": {
+        "jita": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 1,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 1,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Athinard:Hek:shortest"
+            }
+        }
+    },
+    "30000086": {
+        "jita": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sucha:Hek:shortest"
+            }
+        }
+    },
+    "30000079": {
+        "jita": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Milu:Hek:shortest"
+            }
+        }
+    },
+    "30003583": {
+        "jita": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 55,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Weraroix:Hek:shortest"
+            }
+        }
+    },
+    "30003011": {
+        "jita": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 39,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mormoen:Hek:shortest"
+            }
+        }
+    },
+    "30032505": {
+        "jita": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Todeko:Hek:shortest"
+            }
+        }
+    },
+    "0": {
+        "sys": "un"
+    },
+    "30002775": {
+        "jita": {
+            "secure": {
+                "jumps": 2,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 2,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 46,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Paara:Hek:shortest"
+            }
+        }
+    },
+    "30003451": {
+        "jita": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dantbeinn:Hek:shortest"
+            }
+        }
+    },
+    "30005050": {
+        "jita": {
+            "secure": {
+                "jumps": 53,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 42,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 34,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kulu:Hek:shortest"
+            }
+        }
+    },
+    "30004110": {
+        "jita": {
+            "secure": {
+                "jumps": 53,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 42,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 34,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Finid:Hek:shortest"
+            }
+        }
+    },
+    "30001740": {
+        "jita": {
+            "secure": {
+                "jumps": 53,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 42,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 34,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Arakor:Hek:shortest"
+            }
+        }
+    },
+    "30001418": {
+        "jita": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Aikantoh:Hek:shortest"
+            }
+        }
+    },
+    "30004158": {
+        "jita": {
+            "secure": {
+                "jumps": 56,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 45,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Telang:Hek:shortest"
+            }
+        }
+    },
+    "30005248": {
+        "jita": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 45,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Hirizan:Hek:shortest"
+            }
+        }
+    },
+    "30001694": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Abai:Hek:shortest"
+            }
+        }
+    },
+    "30002963": {
+        "jita": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Odin:Hek:shortest"
+            }
+        }
+    },
+    "30000122": {
+        "jita": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Mahtista:Hek:shortest"
+            }
+        }
+    },
+    "30000002": {
+        "jita": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Lashesih:Hek:shortest"
+            }
+        }
+    },
+    "30001647": {
+        "jita": {
+            "secure": {
+                "jumps": 47,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 36,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 28,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Anjedin:Hek:shortest"
+            }
+        }
+    },
+    "30002814": {
+        "jita": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 45,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Uotila:Hek:shortest"
+            }
+        }
+    },
+    "30003894": {
+        "jita": {
+            "secure": {
+                "jumps": 60,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 35,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sabusi:Hek:shortest"
+            }
+        }
+    },
+    "30001650": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Riramia:Hek:shortest"
+            }
+        }
+    },
+    "30002233": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Dakba:Hek:shortest"
+            }
+        }
+    },
+    "30001729": {
+        "jita": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sinid:Hek:shortest"
+            }
+        }
+    },
+    "30003401": {
+        "jita": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egbonbet:Hek:shortest"
+            }
+        }
+    },
+    "30004103": {
+        "jita": {
+            "secure": {
+                "jumps": 52,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 41,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 7,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 27,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 22,
+                "routeURL": "https://eve-gatecheck.space/eve/#Kothe:Hek:shortest"
+            }
+        }
+    },
+    "30001709": {
+        "jita": {
+            "secure": {
+                "jumps": 51,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 40,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 6,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 26,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 32,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Ferira:Hek:shortest"
+            }
+        }
+    },
+    "30003812": {
+        "jita": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 43,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Osmallanais:Hek:shortest"
+            }
+        }
+    },
+    "30002563": {
+        "jita": {
+            "secure": {
+                "jumps": 31,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 20,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 21,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 12,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 10,
+                "routeURL": "https://eve-gatecheck.space/eve/#Egmur:Hek:shortest"
+            }
+        }
+    },
+    "30002703": {
+        "jita": {
+            "secure": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Brybier:Hek:shortest"
+            }
+        }
+    },
+    "30002204": {
+        "jita": {
+            "secure": {
+                "jumps": 44,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 33,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 25,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Gaha:Hek:shortest"
+            }
+        }
+    },
+    "30003500": {
+        "jita": {
+            "secure": {
+                "jumps": 49,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 11,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 38,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 16,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 4,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 24,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 30,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 19,
+                "routeURL": "https://eve-gatecheck.space/eve/#Sharji:Hek:shortest"
+            }
+        }
+    },
+    "30003026": {
+        "jita": {
+            "secure": {
+                "jumps": 15,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 2,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 2,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 34,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 13,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 9,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 8,
+                "routeURL": "https://eve-gatecheck.space/eve/#Blameston:Hek:shortest"
+            }
+        }
+    },
+    "30003496": {
+        "jita": {
+            "secure": {
+                "jumps": 48,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Jita:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Jita:shortest"
+            }
+        },
+        "dodixie": {
+            "secure": {
+                "jumps": 37,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Dodixie:secure"
+            },
+            "shortest": {
+                "jumps": 17,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Dodixie:shortest"
+            }
+        },
+        "amarr": {
+            "secure": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Amarr:secure"
+            },
+            "shortest": {
+                "jumps": 5,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Amarr:shortest"
+            }
+        },
+        "rens": {
+            "secure": {
+                "jumps": 23,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Rens:secure"
+            },
+            "shortest": {
+                "jumps": 14,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Rens:shortest"
+            }
+        },
+        "hek": {
+            "secure": {
+                "jumps": 29,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Hek:secure"
+            },
+            "shortest": {
+                "jumps": 18,
+                "routeURL": "https://eve-gatecheck.space/eve/#Nakri:Hek:shortest"
+            }
+        }
+    }
+}

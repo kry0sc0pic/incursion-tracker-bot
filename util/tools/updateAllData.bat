@@ -1,0 +1,2 @@
+python fetch_incursions_universe.py
+python generate_routes_universal.py
