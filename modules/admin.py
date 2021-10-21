@@ -8,7 +8,7 @@ class Admin(commands.Cog):
 
     @commands.command()
     @commands.guild_only()
-    # @commands.has_any_role(895714070815211581,826051937400782879)
+    @commands.has_any_role(895714070815211581,826051937400782879)
     async def setup(self,ctx):
         guildID = ctx.guild.id
         channelID = ctx.channel.id

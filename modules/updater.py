@@ -9,7 +9,7 @@ class Updater(commands.Cog):
         self.client = client
 
     @commands.guild_only()
-    # @commands.has_any_role(895714070815211581,826051937400782879)
+    @commands.has_any_role(895714070815211581,826051937400782879)
     @commands.command(aliases=['stop'])
     async def pause(self,ctx):
         try:
@@ -22,7 +22,7 @@ class Updater(commands.Cog):
         await m.delete()
 
     @commands.guild_only()
-    # @commands.has_any_role(895714070815211581,826051937400782879) 
+    @commands.has_any_role(895714070815211581,826051937400782879) 
     @commands.command(aliases=['start'])
     async def resume(self,ctx):
         try:
