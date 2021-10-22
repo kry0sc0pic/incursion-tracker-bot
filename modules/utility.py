@@ -18,7 +18,7 @@ class Utility(commands.Cog):
            e = generateEmbed(incursion,filename="influence.png")
         # file = File("temp/influence.png", filename="influence.png")
         # e.set_image(url="attachment://influence.png")
-           await ctx.send(embed=e)
+        await ctx.send(embed=e)
            
     @commands.guild_only()
     @commands.cooldown(1, 30, commands.BucketType.user)
