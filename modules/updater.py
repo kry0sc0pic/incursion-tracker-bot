@@ -71,6 +71,8 @@ class Updater(commands.Cog):
                 
                 elif(lastUpdateData['focusUp']==False and incursion != None):
                     print("NEW SPAWN")
+                    with open('current_focus/focus.json','r') as weewoo:
+                        lastDataData = json.load(weewoo)
                     with open('current_focus/focus.json','w') as lastUpdate:
                         lastUpdateData['focusUp'] = True
                         lastUpdateData['influence'] = incursion['focus']['influence']
@@ -81,7 +83,7 @@ class Updater(commands.Cog):
                         with open('current_focus/last.json','r') as lastData:
                             lD = json.load(lastData)
                         with open('current_focus/last.json','w') as lastData:
-                            lD['id'] = lastData['id']
+                            lD['id'] = lastDataData['id']
                             json.dump(lD,lastData)
                         lastUpdateData['id'] = str(incursion['static']['headquarters_system_id'])
                         print(lastUpdateData)
