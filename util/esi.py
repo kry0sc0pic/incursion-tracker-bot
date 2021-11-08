@@ -17,7 +17,7 @@ def getHSIncursion():
         try:
             spawnStaticData = possibleIncursionSpawns[str(constellationID)]
             # return spawnStaticData
-            j = int(getJumps(lastFocusData['id'],spawnStaticData['headquarters_system_id']))
+            j = getJumps(lastFocusData['id'],spawnStaticData['headquarters_system_id'])
             return {
                 "focus": focus,
                 "static": spawnStaticData,
@@ -118,8 +118,18 @@ def getHSIncursion():
 
 def getJumps(originID , destinationID):
     routeURL = f"{routeBaseEndpoint}/{originID}/{destinationID}"
-    route = requests.get(routeURL).json()
-    if(type(route)!=list):
-        return 0
+    shortestRoute = requests.get(routeURL , params={"flag": "shortest"}).json()
+    secureRoute = requests.get(routeURL , params={"flag": "secure"}).json()
+    if(type(shortestRoute)!=list and type(secureRoute)!=list):
+        return {
+            "shortest": 0,
+            "secure": 0
+        }
     else:
-        return len(route)
+        # return len(route)
+        return {
+            "shortest": len(shortestRoute),
+            "secure": len(secureRoute)
+        }
+    
+
