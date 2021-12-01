@@ -5,3 +5,4 @@ rich
 pillow
 asyncio
 nextcord
+firebase-admin
