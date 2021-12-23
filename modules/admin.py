@@ -8,7 +8,7 @@ class Admin(commands.Cog):
 
     @commands.command()
     @commands.guild_only()
-    @commands.has_any_role(895714070815211581,826051937400782879)
+    # @commands.has_any_role(895714070815211581,826051937400782879)
     async def setup(self,ctx):
         guildID = ctx.guild.id
         channelID = ctx.channel.id
@@ -16,9 +16,9 @@ class Admin(commands.Cog):
         message = await ctx.send(embed=e)
         messageID = message.id
         message2 = await ctx.send(f"Message ID: {messageID}\nChannel ID: {channelID}\nGuild ID: {guildID}")
-        with open('guild_config/config.json','r') as conf:
+        with open('config/guild.json','r') as conf:
             data = json.load(conf)
-        with open('guild_config/config.json','w') as conf: 
+        with open('config/guild.json','w') as conf: 
             data['message_id'] = messageID
             data['guild_id'] = guildID
             data['channel_id'] = channelID

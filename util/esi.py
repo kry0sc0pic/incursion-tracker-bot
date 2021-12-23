@@ -1,14 +1,16 @@
 import requests
 import json
-
+import pymongo
+mongoURL = "mongodb+srv://vargur:inrustwetrust@cluster0.g0cm2.mongodb.net/incursions?retryWrites=true&w=majority"
+mongoClient = pymongo.MongoClient(mongoURL)
+doc = mongoClient['incursions']['focus_data'].find_one()
 incursionsEndpoint = "https://esi.evetech.net/latest/incursions"
 routeBaseEndpoint = "https://esi.evetech.net/latest/route"
 
 with open("prod_data/incursions_universe.json", "r") as incursionUniverse:
     possibleIncursionSpawns = json.load(incursionUniverse)
 
-with open("current_focus/last.json") as lastFocus:
-    lastFocusData = json.load(lastFocus)
+
 
 def getHSIncursion():
     incursionList = requests.get(incursionsEndpoint).json()
@@ -17,7 +19,7 @@ def getHSIncursion():
         try:
             spawnStaticData = possibleIncursionSpawns[str(constellationID)]
             # return spawnStaticData
-            j = getJumps(lastFocusData['id'],spawnStaticData['headquarters_system_id'])
+            j = getJumps(doc['last_id'],spawnStaticData['headquarters_system_id'])
             return {
                 "focus": focus,
                 "static": spawnStaticData,

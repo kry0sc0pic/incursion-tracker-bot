@@ -5,4 +5,4 @@ rich
 pillow
 asyncio
 nextcord
-firebase-admin
+pymongo[srv]

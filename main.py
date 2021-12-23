@@ -4,7 +4,7 @@ from nextcord.embeds import Embed
 from nextcord.ext import commands
 
 #* Loading Bot Configuration
-with open('bot_config/config.json','r') as configFile:
+with open('config/bot.json','r') as configFile:
     config = json.load(configFile)
 
 #* Create Discord Client
