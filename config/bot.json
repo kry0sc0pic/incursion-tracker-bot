@@ -3,7 +3,6 @@
     "status": "TCRC Leroys | ?help",
     "modules": [
         "modules.admin",
-        "modules.updater",
         "modules.utility"
     ]
 }

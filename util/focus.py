@@ -5,7 +5,6 @@ sysInline = True
 
 def generateEmbed(focusInfo: dict , filename: str = "influence.png"):
     state = focusInfo['focus']['state']
-    print(focusInfo)
     if state == "established":
         color = Colour.green()
         image = "https://i.imgur.com/7vBkyVW.png"
