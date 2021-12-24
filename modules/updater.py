@@ -10,7 +10,7 @@ class Updater(commands.Cog):
         self.mongoURL = "mongodb+srv://vargur:inrustwetrust@cluster0.g0cm2.mongodb.net/incursions?retryWrites=true&w=majority"
         self.mongoClient = pymongo.MongoClient(self.mongoURL)
         self.client = client
-
+        self.liveFocusStatus.start()
     @commands.guild_only()
     # @commands.has_any_role(895714070815211581,826051937400782879)
     @commands.command(aliases=['stop'])
