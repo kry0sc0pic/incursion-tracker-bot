@@ -72,7 +72,7 @@ async def liveFocusStatus():
                 doc['influence_zero'] = False
                 doc['mobilized'] = False
                 doc['withdrawing'] = False
-                doc['status'] = "established"
+                doc['status'] = incursion['focus']['state']
                 doc['last_id'] = lID
                 doc['id'] = incursion['static']['headquarters_system_id']
                 

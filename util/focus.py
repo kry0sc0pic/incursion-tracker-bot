@@ -28,7 +28,7 @@ def generateEmbed(focusInfo: dict , filename: str = "influence.png"):
     )
     e.add_field(
         name="‎‎",
-        value=f"**Shortest: **[**{focusInfo['jumps']['shortest']}**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  Jumps\n**Safest: **[**{focusInfo['jumps']['secure']}**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) Jumps‎‎‎"
+        value=f"**Distance From Last Focus:**\n**Shortest: **[**{focusInfo['jumps']['shortest']}**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  Jumps\n**Safest: **[**{focusInfo['jumps']['secure']}**](https://www.youtube.com/watch?v=dQw4w9WgXcQ) Jumps‎‎‎"
     )
 
     e.add_field(name="**Trade Hubs:**", value="‎‎", inline=False)
