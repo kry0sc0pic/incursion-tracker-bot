@@ -44,13 +44,18 @@ async def liveFocusStatus():
             incursion = getHSIncursion() # Get Incursion
 
 
+
             # Check if focus has gone down
             if(lastUpdateData["focusUp"]==True and incursion==None):
                 print("Focus Down , New Focus in 2-3 days?")
                 doc['focusUp'] = False
-                pymongo.MongoClient("mongodb+srv://vargur:inrustwetrust@cluster0.g0cm2.mongodb.net/incursions?retryWrites=true&w=majority")['incursions']['focus_data'].update_one({'_id': 'data'},{"$set":doc})
                 e = noFocusEmbed()
-                await message.edit(embed=e)
+                
+                pymongo.MongoClient("mongodb+srv://vargur:inrustwetrust@cluster0.g0cm2.mongodb.net/incursions?retryWrites=true&w=majority")['incursions']['focus_data'].update_one({'_id': 'data'},{"$set":doc})
+                try:
+                    await message.edit(embed=e)
+                except Exception as e:
+                    print("error: ",e)
                 await log_channel.send(f"Focus is Down\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}") 
 
 
@@ -64,8 +69,9 @@ async def liveFocusStatus():
             # If new focus has spawned
             elif(lastUpdateData['focusUp']==False and incursion != None):
                 print("NEW SPAWN")
-
-
+                print(f"LAST UPDATE: \n {lastUpdateData}")
+                print("----------------------------------------------------")
+                print(f"INCURSION DATA: \n {incursion}")
                 lID = doc['id']
                 doc['focusUp'] = True
                 doc['influence'] = incursion['focus']['influence']
@@ -81,9 +87,9 @@ async def liveFocusStatus():
                 embed_to_send.set_footer(text=f"⏱ Last Updated: {getNowTS()}")
                 await message.edit(embed=embed_to_send)
                 await log_channel.send(f"New Focus Spawned\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}")
-                eMSG = await channel.send("@everyone")
+                # eMSG = await channel.send("@everyone")
                 await asyncio.sleep(10)
-                await eMSG.delete()
+                # await eMSG.delete()
 
             # Check if Focus has Mobilized
             elif(incursion['focus']['state']=="mobilizing" and lastUpdateData['notifications']['mobilized']==False):
@@ -116,24 +122,7 @@ async def liveFocusStatus():
                 doc['influence_zero'] = True
                 pymongo.MongoClient("mongodb+srv://vargur:inrustwetrust@cluster0.g0cm2.mongodb.net/incursions?retryWrites=true&w=majority")['incursions']['focus_data'].update_one({'_id': 'data'},{'$set': doc})
 
-
-            # Check for new spawn
-            elif(lastUpdateData['focusUp']==False and incursion != None):
-                print("NEW SPAWN")
-                with open('current_focus/focus.json','w') as lastUpdate:
-                    lastUpdateData['focusUp'] = True
-                    lastUpdateData['influence'] = incursion['focus']['influence']
-                    lastUpdateData['notifications']['influence_zero'] = False
-                    lastUpdateData['notifications']['mobilized'] = False
-                    lastUpdateData['notifications']['withdrawing'] = False
-                    json.dump(lastUpdateData,lastUpdate)
-                embed_to_send = generateEmbed(focusInfo=incursion)
-                embed_to_send.set_footer(text=f"⏱ Last Updated: {getNowTS()}")
-                await message.edit(embed=embed_to_send)
-                await log_channel.send(f"New Focus Spawned\nUpdated Focus Embed\n⏱ | Last Updated: {getNowTS()}")
-                eMSG = await channel.send("@everyone")
-                await asyncio.sleep(10)
-                await eMSG.delete()
+        
             
             
 
