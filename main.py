@@ -17,7 +17,7 @@ with open('config/bot.json','r') as configFile:
 #* Create Discord Client
 bot = commands.Bot(command_prefix='?',help_command=None)
 statusActivity = Activity(type=ActivityType.watching , name=config['status'])
-@tasks.loop(minutes=10)
+@tasks.loop(minutes=20)
 async def liveFocusStatus():
     with open('config/guild.json','r') as conf:
         config = json.load(conf)
